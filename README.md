@@ -1,8 +1,9 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 31-01-2026
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
+This dataset contains customer reviews of air coolers collected from an e-commerce platform. It includes product name, price, user rating, and textual review summary. The data is used for sentiment analysis to understand customer opinions and satisfaction levels. Text preprocessing is performed to convert nominal data into text, extract sentiment scores, and generate additional attributes for analysis. This dataset helps in identifying positive and negative feedback patterns and supports decision-making related to product quality and customer preferences.
 
 ### Procedure:
 1) ***Import Excel data***
@@ -26,5 +27,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1920" height="1200" alt="Screenshot 2026-01-31 141659" src="https://github.com/user-attachments/assets/e42f007f-a3e8-4bd9-b523-b16ea6e72929" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-01-31 141649" src="https://github.com/user-attachments/assets/374060a0-a9c6-4fbd-98db-dfea1a315a3b" />
 
 ### Result:
