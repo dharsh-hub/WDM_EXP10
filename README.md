@@ -32,3 +32,4 @@ This dataset contains customer reviews of air coolers collected from an e-commer
 <img width="1920" height="1200" alt="Screenshot 2026-01-31 141649" src="https://github.com/user-attachments/assets/374060a0-a9c6-4fbd-98db-dfea1a315a3b" />
 
 ### Result:
+Thus the project for sentimental analysis on flipkart review data using Rapidminer is created
